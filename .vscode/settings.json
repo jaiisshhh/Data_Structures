@@ -79,7 +79,9 @@
     "iomanip": "cpp",
     "stop_token": "cpp",
     "thread": "cpp",
-    "cinttypes": "cpp"
+    "cinttypes": "cpp",
+    "__tree": "cpp",
+    "set": "cpp"
   },
   "r.lsp.promptToInstall": false
 }
